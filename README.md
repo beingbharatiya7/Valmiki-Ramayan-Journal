@@ -19,7 +19,6 @@ The goal is to understand the text carefully, maintain a consistent reading habi
 
 ## Repository Structure
 
-- `Reading-Tracker.md` — reading sessions and progress.
 - `Bala-Kanda/` — notes organized by Sarga.
 - `Ayodhya-Kanda/` — notes organized by Sarga.
 - `Aranya-Kanda/` — notes organized by Sarga.
